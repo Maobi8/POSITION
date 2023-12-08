@@ -1,0 +1,221 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;  
+}
+
+section{
+  background-image: url(../image/CORPERATION\ PIC\ 3.jpg);
+    background-size: cover;
+    background-color: #091422ad;
+    background-blend-mode: color;
+    height: 100vh;
+ 
+}
+#head{
+  padding: 40px;
+}
+.logo{
+  position: absolute;
+  top: 8%;
+  left: 100px;
+  z-index: 1;
+  color: #4187a9ff;
+}
+span{
+  color: #2e3f4d;
+}
+.nav ul{
+  text-align: right;
+  font-size: 20px;
+}
+.nav ul li{
+  display: inline-block; 
+}
+.nav ul li a {
+  
+  border-radius: 20px;
+  margin: 5px;
+  padding: 7px;
+  margin:20px;
+  text-decoration: none;
+  color: white;
+ 
+}
+.button{
+  border: 2px solid #4187a9ff;
+  background: #4187a9ff;
+  
+}
+i {
+  color: black;
+  border-radius: 50%;
+  padding: 5px;
+  background: rgb(245, 238, 238);
+}
+.nav a:hover{
+  background: black;
+  cursor: pointer;
+  scroll-behavior: smooth;
+  box-sizing: border-box; 
+}
+.text{
+  position: relative;
+  width: 60%;
+  padding: 100px;
+  padding-top: 130px;
+  z-index: 1;
+  color: white;
+  padding-left: 135px;
+}
+h3{
+  font-size: 40px;
+  
+}
+.text h1{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  line-height: 60px;
+  letter-spacing: -1px;
+  font-size: 77px;
+
+}
+.text h4{
+  font-size: 15px;
+  padding-left: 100px;
+  color: antiquewhite;
+}
+.line-1{
+  width: 60px;
+  height: 70px;
+  position: absolute;
+  top: 28px;
+  left: 134px;
+  background-color: transparent;
+  border: 2px solid #2e3f4d;
+}
+.line-2{
+  width: 130px;
+  height: 250px;
+  position: absolute;
+  background-color: transparent;
+  border: 2px solid #4187a9ff;
+  top: 200px;
+  left: 100px;
+   
+}
+.final h4{
+  display: inline-block;
+}
+ .final h4 {
+  position: relative;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  border: 2px solid #4187a9ff;
+  border-radius: 15px;
+  margin-left: 70px;
+  padding: 10px;
+  left: 150px;
+  bottom: 5rem;
+  background-color: #4187a9;
+}
+h2{
+  transform: rotate(90deg);
+  position: absolute;
+  top: 40%;
+  left: 35px;
+  font-size: 15px;
+  color: #4187a9;
+}
+.about{
+  background-image: url(../image/CORPERATION\ PIC\ 4.jpg);
+  background-size: cover;
+  background-color: rgb(185, 181, 181);
+  background-blend-mode: color;
+  height: 100vh;
+}
+img{
+  position:relative;
+  padding: 20px;
+  z-index: 1;
+}
+  #box1{
+  position: absolute;
+  top: 148%;
+  left: 90px;
+  }
+  
+  #box2{
+    position: absolute;
+    left: 70px;
+    top: 105%;
+
+  }
+  #box3{
+    position: absolute;
+    top: 120%;
+    left: 260px;
+    
+    
+  }
+  .writing{
+   padding-left: 750px;
+   font-size: 18px;
+   letter-spacing: 1px;
+   padding-top: 25px;
+   padding-right: 35px;
+   text-decoration: none;
+   font-family:sans-serif;
+   color: rgb(43, 37, 37);
+  }
+  spam{
+    font-weight: lighter;
+  }
+  p{
+    line-height: 2em;
+    margin-bottom: 32px;
+  }
+  .writing h4{
+    font-size: 20px;
+    text-align: left;
+    color:  #4187a9ff;
+  }
+  .writing h6{
+    text-align: left;
+    font-size: 40px;
+  }
+.writing h5{
+  font-size: 14px;
+}
+.fina{
+  display: inline-block;
+  position: relative;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  border: 2px solid #4187a9ff;
+  border-radius: 15px;
+  margin-left: 80px;
+  padding: 10px;
+  left: 150px;
+  bottom: 5rem;
+  background-color: #4187a9;
+  left: 670px;
+  bottom: auto;
+
+}
+.line-3{
+  width: 170px;
+  height: 400px;
+  position: absolute;
+  background-color: transparent;
+  border: 2px solid #c98d9a;
+  padding-left: 60px;
+  margin-left: 40px; 
+  top: 115%;
+  left: 250px;
+}
+
